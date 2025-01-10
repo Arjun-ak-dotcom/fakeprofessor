@@ -1,0 +1,1 @@
+function skillsMember(){return { restrict: 'E', templateUrl:'modules/skills/views/member.html',controllerAs:'vm',bindtocontroller:true,scope:{members:'m'}}}
